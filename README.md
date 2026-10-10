@@ -2,8 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 <br>
-Short repository README for the accompanying research paper. This repository contains the LaTeX source for the paper, experimental code snippets, and materials to reproduce core results reported in the manuscript.
-
 **Authors:** Adrika Pradhan
 ## Abstract
 
